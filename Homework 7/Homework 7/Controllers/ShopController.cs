@@ -4,12 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Data.SqlClient;
 
 
 namespace Homework_7.Controllers
 {
     public class ShopController : Controller
     {
+        SqlConnection redConnection = new SqlConnection("Data Source=INFGY-09\\MSSQL14;Initial Catalog=Reddragon;Integrated Security=True");
         // GET: Shop
         public static List<ShopItemViewModel> comics = new List<ShopItemViewModel>();
         public int c;
@@ -71,6 +73,33 @@ namespace Homework_7.Controllers
         {
             return comics.OrderBy(zz => zz.QuantityAvailable).ToList();
 
+        }
+
+
+        public ActionResult Part2()
+        {
+            return View();
+        }  
+
+        [HttpPost]
+        public ActionResult Part2(string Name, string Desciption, double Price, int QuantityAvailable)
+        {
+            try
+            {
+                SqlCommand addcomic = new SqlCommand("Insert into ShopItem Values('" + Name + "','" + Desciption + "','" + Price + "','" + QuantityAvailable + "')", redConnection);
+                redConnection.Open();
+                addcomic.ExecuteNonQuery();
+
+            }
+            catch (Exception Error)
+            {
+                ViewBag.Message = "Error: " + Error.Message;
+            }
+            finally
+            {
+                redConnection.Close();
+            }
+                return View();
         }
         
     }
