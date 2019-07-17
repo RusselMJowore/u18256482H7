@@ -1,0 +1,164 @@
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\ApplicationInsights.config
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\csc.exe
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\System.Collections.Immutable.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\vbc.exe
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\VBCSCompiler.exe
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\roslyn\VBCSCompiler.exe.config
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Homework 7.dll.config
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Homework 7.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Homework 7.pdb
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Antlr3.Runtime.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\EntityFramework.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\EntityFramework.SqlServer.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.Web.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.WindowsServer.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.ApplicationInsights.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Google.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Web.Infrastructure.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Newtonsoft.Json.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Owin.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Helpers.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Mvc.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Optimization.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Razor.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.Deployment.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.Razor.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\WebGrease.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.Web.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AI.WindowsServer.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.ApplicationInsights.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Helpers.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Mvc.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Optimization.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.Razor.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.Deployment.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\System.Web.WebPages.Razor.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Antlr3.Runtime.pdb
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Newtonsoft.Json.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\EntityFramework.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\EntityFramework.SqlServer.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Google.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\obj\Debug\Homework 7.csprojResolveAssemblyReference.cache
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\obj\Debug\Homework 7.dll
+c:\users\u18256482\documents\visual studio 2015\Projects\Homework 7\Homework 7\obj\Debug\Homework 7.pdb
+E:\Homework 7\Homework 7\bin\ApplicationInsights.config
+E:\Homework 7\Homework 7\bin\roslyn\csc.exe
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Homework 7\Homework 7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Homework 7\Homework 7\bin\roslyn\System.Collections.Immutable.dll
+E:\Homework 7\Homework 7\bin\roslyn\System.Reflection.Metadata.dll
+E:\Homework 7\Homework 7\bin\roslyn\vbc.exe
+E:\Homework 7\Homework 7\bin\roslyn\VBCSCompiler.exe
+E:\Homework 7\Homework 7\bin\roslyn\VBCSCompiler.exe.config
+E:\Homework 7\Homework 7\bin\Homework 7.dll.config
+E:\Homework 7\Homework 7\bin\Homework 7.dll
+E:\Homework 7\Homework 7\bin\Homework 7.pdb
+E:\Homework 7\Homework 7\bin\Antlr3.Runtime.dll
+E:\Homework 7\Homework 7\bin\EntityFramework.dll
+E:\Homework 7\Homework 7\bin\EntityFramework.SqlServer.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.DependencyCollector.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.Web.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.WindowsServer.dll
+E:\Homework 7\Homework 7\bin\Microsoft.ApplicationInsights.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Homework 7\Homework 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Google.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Homework 7\Homework 7\bin\Microsoft.Web.Infrastructure.dll
+E:\Homework 7\Homework 7\bin\Newtonsoft.Json.dll
+E:\Homework 7\Homework 7\bin\Owin.dll
+E:\Homework 7\Homework 7\bin\System.Web.Helpers.dll
+E:\Homework 7\Homework 7\bin\System.Web.Mvc.dll
+E:\Homework 7\Homework 7\bin\System.Web.Optimization.dll
+E:\Homework 7\Homework 7\bin\System.Web.Razor.dll
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.Deployment.dll
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.dll
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.Razor.dll
+E:\Homework 7\Homework 7\bin\WebGrease.dll
+E:\Homework 7\Homework 7\bin\Microsoft.AI.DependencyCollector.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AI.Web.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AI.WindowsServer.xml
+E:\Homework 7\Homework 7\bin\Microsoft.ApplicationInsights.xml
+E:\Homework 7\Homework 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Homework 7\Homework 7\bin\System.Web.Helpers.xml
+E:\Homework 7\Homework 7\bin\System.Web.Mvc.xml
+E:\Homework 7\Homework 7\bin\System.Web.Optimization.xml
+E:\Homework 7\Homework 7\bin\System.Web.Razor.xml
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.xml
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.Deployment.xml
+E:\Homework 7\Homework 7\bin\System.Web.WebPages.Razor.xml
+E:\Homework 7\Homework 7\bin\Antlr3.Runtime.pdb
+E:\Homework 7\Homework 7\bin\Newtonsoft.Json.xml
+E:\Homework 7\Homework 7\bin\EntityFramework.xml
+E:\Homework 7\Homework 7\bin\EntityFramework.SqlServer.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Homework 7\Homework 7\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Google.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Homework 7\Homework 7\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Homework 7\Homework 7\obj\Debug\Homework 7.csprojResolveAssemblyReference.cache
+E:\Homework 7\Homework 7\obj\Debug\Homework 7.dll
+E:\Homework 7\Homework 7\obj\Debug\Homework 7.pdb

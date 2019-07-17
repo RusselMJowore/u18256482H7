@@ -1,0 +1,39 @@
+﻿@model List<Homework_7.ViewModels.ShopItemViewModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddItemView</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+@using (@Html.BeginForm("AddItem", "Shop", FormMethod.Post))
+            {
+    <div id="add">
+       
+                <label>Name</label>
+                <input id="txtName" type="text" name="iName" required/>
+                <br />
+                <label>Price</label>
+                <input id="txtPrice" type="text" name="iPrice" required/>
+                <br />
+                <label>Desription</label>
+                <input id="txtDesription" type="text" name="iDesciption" required/>
+                <br />
+                <label>Quantity Available</label>
+                <input id="txtQuantityAvailable" type="number" min="0" name="iQuantityAvailable" required/>
+                <br />
+
+                <input id="btnSave" type="submit" value="Save" />
+                <input id="btnCancel" type="submit" value="Cancel" onclick="window.location.href='@Url.Action("Index", "Shop" )';"  />
+         
+
+    </div>
+            }
+</body>
+</html>

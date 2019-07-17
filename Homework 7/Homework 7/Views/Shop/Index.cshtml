@@ -1,0 +1,61 @@
+﻿@model List<Homework_7.ViewModels.ShopItemViewModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RedDragonComic Store</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <div id="Store ">
+
+        <input id="btnAdd" type="submit" value="Add" onclick="window.location.href='@Url.Action("AddItem", "Shop" )';"/>
+        
+        <table>
+            <tr>
+                <th>Comics</th>
+                <th></th>
+                <th></th>
+                <th></th>
+
+            </tr>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>QuantityAvailable</th>
+            </tr>
+            @foreach (var Item in Model)
+            {
+                <tr>
+                    <td>@Item.Name</td>
+                    <td>@Item.Description</td>
+                    <td>@Item.Price</td>
+                    <td>@Item.QuantityAvailable</td>
+                </tr>
+            }
+        </table>
+@using (@Html.BeginForm("index", "Shop", FormMethod.Post))
+{
+        <p id="sort ">Sort Functions</p>
+        <input id="btnSName" type="submit" value="Sort by Name" name="sort"/>
+        <input id="btnSPrice" type="submit" value="Sort by Price" name="sort"/>
+        <input id="btnSQuantityAvailable" type="submit" value="Sort by Quantity Available " name="sort" />
+        <input id="btnlist" type="button" value="How many items are in the list?" onclick="comix()"/>
+
+}
+
+    </div>
+    <script>
+     function comix() {
+     alert('There are ' + @Model.Count()+' comics available');
+ }
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <title>Part2</title>
+
+</head>
+<body>
+    <div>
+        @{
+
+            using (@Html.BeginForm("Part2", "Shop", FormMethod.Post))
+            {
+                <label>Name</label>
+                <input id="txtName" type="text" />
+                <br />
+                <label>Price</label>
+                <input id="txtPrice" type="text" />
+                <br />
+                <label>Desription</label>
+                <input id="txtDesription" type="text" />
+                <br />
+                <label>Quantity Available</label>
+                <input id="txtQuantityAvailable" type="text" />
+                <br />
+
+                <input id="btnSave" type="submit" value="Save" />
+            }}
+
+    </div>
+</body>
+</html>

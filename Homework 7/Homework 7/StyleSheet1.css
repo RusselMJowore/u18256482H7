@@ -1,0 +1,46 @@
+﻿body { background-color:yellow;
+       text-align:center;
+
+}
+#Store{ 
+        height: 370px;
+        width: 530px;
+        margin:auto;
+        text-align:center;
+}
+table{
+    border:solid 2px;
+    margin:auto;
+    width:50%;
+   
+}
+td,th
+{
+    border:solid 1px;
+    text-align:left;
+    padding:10px;
+}
+#add
+{
+    height: 370px;
+    width: 530px;
+    margin:auto;
+    text-align:center;
+
+}
+#txtName 
+{
+    margin:auto;
+}
+#txtPrice
+{
+    margin:auto;
+}
+#txtDesription 
+{
+    margin:auto;
+}
+#txtQuantityAvailable
+{
+    margin:auto;
+}
